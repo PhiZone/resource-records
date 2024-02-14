@@ -1,4 +1,4 @@
-# PhiZone Resource Records
+# Resource Records
 
 This repository is intended to store CSV batches for Resource Records on PhiZone. The following content is also available [here](https://www.phi.zone/legal/en/copyright-policy).
 
